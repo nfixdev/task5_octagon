@@ -1,0 +1,27 @@
+{
+  "name": "task5_octagon",
+  "version": "1.0.0",
+  "description": "Task 5 solve for Octagon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfixdev/task5_octagon.git"
+  },
+  "keywords": [
+    "octagon",
+    "nodejs"
+  ],
+  "author": "Tozhiev Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfixdev/task5_octagon/issues"
+  },
+  "homepage": "https://github.com/nfixdev/task5_octagon#readme",
+  "dependencies": {
+    "node-monitor": "^0.3.11",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
